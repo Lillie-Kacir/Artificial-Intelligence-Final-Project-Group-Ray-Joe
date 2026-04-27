@@ -3,6 +3,7 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 
+<<<<<<< Updated upstream
 # ── Placeholder course list (swap these out later) ───────────────────────────
 ALL_COURSES = [
     "Temp 1",
@@ -10,6 +11,111 @@ ALL_COURSES = [
     "Temp 3",
     "Temp 4",
     "Temp 5",
+=======
+#test
+
+# ── Theme Colors ──────────────────────────────────────────────────────────────
+BG       = "#f0f4f8"
+DARK     = "#1a2332"
+WHITE    = "#ffffff"
+CARD_BG  = "#ffffff"
+MID_DARK = "#2d3f55"
+ACCENT   = "#3b82f6"
+GREEN    = "#10b981"
+PURPLE   = "#7c3aed"
+AMBER    = "#f59e0b"
+RED      = "#ef4444"
+MUTED    = "#6b7280"
+LIGHT_BG = "#f8fafc"
+
+# ── Engineering Courses with Tags ─────────────────────────────────────────────
+ENGINEERING_COURSES = [
+    {
+        "code": "ENGR 1001",
+        "name": "Engineering Orientation",
+        "tags": ["engineering", "design"],
+    },
+    {
+        "code": "ENGR 1041",
+        "name": "Foundations of Design 1",
+        "tags": ["engineering", "design"],
+    },
+    {
+        "code": "ENGR 1051",
+        "name": "Foundations of Design 2",
+        "tags": ["engineering", "design"],
+    },
+    {
+        "code": "ECCS 1611",
+        "name": "Programming 1",
+        "tags": ["programming", "software"],
+    },
+    {
+        "code": "ECCS 1621",
+        "name": "Programming 2",
+        "tags": ["programming", "software"],
+    },
+    {
+        "code": "ECCS 1721",
+        "name": "Digital Logic",
+        "tags": ["electrical", "hardware"],
+    },
+    {
+        "code": "ECCS 2311",
+        "name": "Electric Circuits",
+        "tags": ["electrical"],
+    },
+    {
+        "code": "ECCS 2331",
+        "name": "Digital Signal Processing",
+        "tags": ["electrical", "signal_processing"],
+    },
+    {
+        "code": "ECCS 2341",
+        "name": "Electronics",
+        "tags": ["electrical", "hardware"],
+    },
+    {
+        "code": "ECCS 2381",
+        "name": "Maker Engineering",
+        "tags": ["robotics", "design", "embedded"],
+    },
+    {
+        "code": "ECCS 2671",
+        "name": "Data Structures & Algorithms 1",
+        "tags": ["programming", "software"],
+    },
+    {
+        "code": "ECCS 3241",
+        "name": "Embedded Hardware-Software",
+        "tags": ["embedded", "hardware", "programming"],
+    },
+    {
+        "code": "ECCS 3351",
+        "name": "Embedded Real-Time App",
+        "tags": ["embedded", "programming", "robotics"],
+    },
+    {
+        "code": "ECCS 3411",
+        "name": "Computer Security",
+        "tags": ["security", "programming", "networking"],
+    },
+    {
+        "code": "ECCS 3611",
+        "name": "Computer Architecture",
+        "tags": ["hardware", "electrical"],
+    },
+    {
+        "code": "ECCS 3631",
+        "name": "Networks & Data Communications",
+        "tags": ["networking", "software"],
+    },
+    {
+        "code": "ECCS 3661",
+        "name": "Operating Systems",
+        "tags": ["software", "programming"],
+    },
+>>>>>>> Stashed changes
 ]
 
 
