@@ -115,6 +115,237 @@ ENGINEERING_COURSES = [
         "name": "Operating Systems",
         "tags": ["software", "programming"],
     },
+     #spring courses
+ {
+        "code": "ECCS 1011",
+        "name": "Python and Problem Solving",
+        "tags": ["programming", "software"],
+    },
+    {
+        "code": "ECCS 1101",
+        "name": "Computer Science Orientation",
+        "tags": ["software"],
+    },
+    {
+        "code": "ECCS 1421",
+        "name": "Net-Centric Computing",
+        "tags": ["networking", "software"],
+    },
+    {
+        "code": "ECCS 2011",
+        "name": "Introduction to Data Science",
+        "tags": ["data", "programming"],
+    },
+    {
+        "code": "ECCS 2021",
+        "name": "Machine Learning",
+        "tags": ["ai", "data"],
+    },
+    {
+        "code": "ECCS 2321",
+        "name": "Signals and Systems",
+        "tags": ["signal_processing", "electrical"],
+    },
+    {
+        "code": "ECCS 2411",
+        "name": "Software Design Patterns",
+        "tags": ["software", "programming"],
+    },
+    {
+        "code": "ECCS 2421",
+        "name": "Software Engineering",
+        "tags": ["software"],
+    },
+    {
+        "code": "ECCS 2431",
+        "name": "Mobile App Development",
+        "tags": ["software", "programming"],
+    },
+    {
+        "code": "ECCS 2441",
+        "name": "Web Development",
+        "tags": ["software", "programming"],
+    },
+    {
+        "code": "ECCS 2451",
+        "name": "Landscapes of Computer Science",
+        "tags": ["software"],
+    },
+    {
+        "code": "ECCS 2681",
+        "name": "Data Structures & Algorithms 2",
+        "tags": ["programming", "software"],
+    },
+    {
+        "code": "ECCS 3101",
+        "name": "Basic Electromagnetics",
+        "tags": ["electrical"],
+    },
+    {
+        "code": "ECCS 3111",
+        "name": "Applied Electromagnetics",
+        "tags": ["electrical"],
+    },
+    {
+        "code": "ECCS 3121",
+        "name": "Machines & Power Electronics",
+        "tags": ["electrical", "power"],
+    },
+    {
+        "code": "ECCS 3131",
+        "name": "Signals & Systems",
+        "tags": ["signal_processing", "electrical"],
+    },
+    {
+        "code": "ECCS 3141",
+        "name": "Control & Automation",
+        "tags": ["controls", "electrical"],
+    },
+    {
+        "code": "ECCS 3191",
+        "name": "Communication Systems",
+        "tags": ["signal_processing", "networking"],
+    },
+    {
+        "code": "ECCS 3311",
+        "name": "Digital Signal Processing",
+        "tags": ["signal_processing"],
+    },
+    {
+        "code": "ECCS 3331",
+        "name": "Electronics",
+        "tags": ["electrical", "hardware"],
+    },
+    {
+        "code": "ECCS 3401",
+        "name": "Machine Learning",
+        "tags": ["ai", "data"],
+    },
+    {
+        "code": "ECCS 3421",
+        "name": "Software Development",
+        "tags": ["software"],
+    },
+    {
+        "code": "ECCS 3431",
+        "name": "Theory of Computation",
+        "tags": ["theory"],
+    },
+    {
+        "code": "ECCS 3451",
+        "name": "UI/UX Design",
+        "tags": ["design", "software"],
+    },
+    {
+        "code": "ECCS 3481",
+        "name": "Databases",
+        "tags": ["data", "software"],
+    },
+    {
+        "code": "ECCS 3781",
+        "name": "Project Development",
+        "tags": ["project", "design"],
+    },
+    {
+        "code": "ECCS 4111",
+        "name": "Power Systems",
+        "tags": ["power", "electrical"],
+    },
+    {
+        "code": "ECCS 4121",
+        "name": "Advanced Power",
+        "tags": ["power"],
+    },
+    {
+        "code": "ECCS 4141",
+        "name": "Information Science",
+        "tags": ["data"],
+    },
+    {
+        "code": "ECCS 4161",
+        "name": "Advanced Controls",
+        "tags": ["controls"],
+    },
+    {
+        "code": "ECCS 4191",
+        "name": "System Design",
+        "tags": ["design"],
+    },
+    {
+        "code": "ECCS 4211",
+        "name": "VLSI System Design",
+        "tags": ["hardware"],
+    },
+    {
+        "code": "ECCS 4221",
+        "name": "Hardware Security",
+        "tags": ["security", "hardware"],
+    },
+    {
+        "code": "ECCS 4321",
+        "name": "Advanced Network Security",
+        "tags": ["security", "networking"],
+    },
+    {
+        "code": "ECCS 4331",
+        "name": "Photovoltaic System Design",
+        "tags": ["power"],
+    },
+    {
+        "code": "ECCS 4351",
+        "name": "Smart Grid",
+        "tags": ["power"],
+    },
+    {
+        "code": "ECCS 4361",
+        "name": "Digital Image Processing",
+        "tags": ["signal_processing", "ai"],
+    },
+    {
+        "code": "ECCS 4391",
+        "name": "Engineering Economy",
+        "tags": ["engineering"],
+    },
+    {
+        "code": "ECCS 4411",
+        "name": "Programming Languages",
+        "tags": ["programming"],
+    },
+    {
+        "code": "ECCS 4431",
+        "name": "Theory of Computation",
+        "tags": ["theory"],
+    },
+    {
+        "code": "ECCS 4441",
+        "name": "Ethical Hacking & Pen Testing",
+        "tags": ["security"],
+    },
+    {
+        "code": "ECCS 4451",
+        "name": "Cryptocurrency & Blockchain",
+        "tags": ["security", "data"],
+    },
+    {
+        "code": "ECCS 4461",
+        "name": "Artificial Intelligence",
+        "tags": ["ai"],
+    },
+    {
+        "code": "ECCS 4621",
+        "name": "Deep Learning",
+        "tags": ["ai", "data"],
+    },
+    {
+        "code": "ECCS 4731",
+        "name": "Capstone Seminar",
+        "tags": ["project"],
+    },
+    {
+        "code": "ECCS 4741",
+        "name": "Wireless Sensor Networks",
+        "tags": ["networking", "embedded"],
+    },
 >>>>>>> Stashed changes
 ]
 
