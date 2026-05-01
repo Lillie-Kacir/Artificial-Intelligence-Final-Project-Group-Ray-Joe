@@ -33,13 +33,13 @@ SPRING_C = "#15803d"   # forest green
 
 # ── Major labels (shared between fall & spring) ────────────────────────────────
 MAJORS = [
-    "Basic Engineering",
+    "Foundational Engineering",
     "Electrical, Computer Engineering & Computer Science",
     "Civil Engineering",
     "Mechanical Engineering",
 ]
 MAJOR_SHORT = {           # abbreviated button labels
-    "Basic Engineering":                                       "Basic Eng.",
+    "Foundational Engineering":                               "Found Eng.",
     "Electrical, Computer Engineering & Computer Science":    "ECE / CS",
     "Civil Engineering":                                       "Civil",
     "Mechanical Engineering":                                  "Mechanical",
@@ -47,7 +47,7 @@ MAJOR_SHORT = {           # abbreviated button labels
 
 # ── Built-in Fall courses (can be overridden by courses_data.json) ─────────────
 _DEFAULT_FALL: dict[str, list[str]] = {
-    "Basic Engineering": [
+    "Foundational Engineering": [
         "Engineering Orientation",
         "Foundations of Design 1",
         "Foundations of Design 2",
@@ -109,7 +109,7 @@ _DEFAULT_FALL: dict[str, list[str]] = {
 
 # ── Built-in Spring courses ────────────────────────────────────────────────────
 _DEFAULT_SPRING: dict[str, list[str]] = {
-    "Basic Engineering": [
+    "Foundational Engineering": [
         "Engineering Graphics",
         "Technical Writing for Engineers",
         "Engineering Economics",
